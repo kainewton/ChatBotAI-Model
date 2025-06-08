@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const shareBtn = document.getElementById('share-btn');
     
     // API Configuration
-    const API_KEY = "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";
+    const API_KEY = "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";
     const API_URL = "https://openrouter.ai/api/v1/chat/completions";
     const model = "deepseek/deepseek-chat:free";
     
